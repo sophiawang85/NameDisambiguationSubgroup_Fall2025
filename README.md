@@ -1,1 +1,1 @@
-# NameDisambiguationSubgroup_Fall2025
+**Research on Author Name Disambiguation**
